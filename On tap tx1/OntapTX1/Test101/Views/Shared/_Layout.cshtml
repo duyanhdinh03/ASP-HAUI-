@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width">
+    <title>@ViewBag.Title </title>
+    <link href="~/Styles/Layout.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="section">
+        <div class="header">
+            <div class="title">
+                Kiểm tra TX 1 - ASP.NET
+            </div>
+            <div class="menu">
+                <ul>
+                    <li>@Html.ActionLink("Hiển thị danh sách nhân viên", "DSNV", "QuanlyNhanvien")</li>
+                    <li>@Html.ActionLink("Nhập thông tin nhân viên", "NhapNV", "QuanlyNhanvien") </li>
+                </ul>
+                
+            </div>
+        </div>
+        <div class="content">
+            <div align ="center">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

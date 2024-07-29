@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "NhapSP";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Nhập thông tin sản phẩm </h2>
+
+@using (Html.BeginForm("HienThiThongTin", "QuanLySanPham"))
+{
+<table class="tbl">
+    <tr>
+        <td>@Html.Label("Mã SP")</td>
+        <td>@Html.TextBox("masp")</td>
+    </tr>
+
+    <tr>
+        <td>@Html.Label("Tên SP")</td>
+        <td>@Html.TextBox("tensanpham")</td>
+    </tr>
+
+    <tr>
+        <td>@Html.Label("Số lượng")</td>
+        <td>@Html.TextBox("soluong")</td>
+    </tr>
+
+    <tr>
+        <td>@Html.Label("Giá tiền")</td>
+        <td>@Html.TextBox("giatien")</td>
+    </tr>
+
+    <tr>
+        <td>@Html.Label("Giảm Giá")</td>
+        <td>
+            @Html.RadioButton("giamgia", 1) Có
+            @Html.RadioButton("giamgia", 0) Không
+
+        </td>
+    </tr>
+
+    <tr>
+        <td colspan="2" align="center">
+            <input type="submit"  value="Thêm" />
+        </td>
+    </tr>
+</table>
+}
+

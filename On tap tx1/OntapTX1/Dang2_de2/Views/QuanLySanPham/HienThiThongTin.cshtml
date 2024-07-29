@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewBag.Title = "HienThiThongTin";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<div>
+    <h4>Thông tin sản phẩm </h4>
+    <table>
+        <tr>
+            <th> MÃ SẢN PHẨM </th>
+            <th> @Html.DisplayFor(model => model.masp) </th>
+        </tr>
+
+        <tr>
+            <th> TÊN SẢN PHẨM </th>
+            <th> @Html.DisplayFor(model => model.tensanpham) </th>
+        </tr>
+
+        <tr>
+            <th> SỐ LƯỢNG </th>
+            <th> @Html.DisplayFor(model => model.soluong) </th>
+        </tr>
+
+        <tr>
+            <th> GIÁ TIỀN </th>
+            <th> @Html.DisplayFor(model => model.giatien) </th>
+        </tr>
+
+        <tr>
+            <th> GIẢM GIÁ </th>
+            <th> @Html.DisplayFor(model => model.giamgia) </th>
+        </tr>
+
+        <tr>
+            <th> THÀNH TIỀN </th>
+            <th> @Html.DisplayFor(model => model.thanhtien) </th>
+        </tr>
+    </table>
+</div>
+<p>
+    @Html.ActionLink("Back to List" , "NhapSP")
+</p>

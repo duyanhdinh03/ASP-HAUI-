@@ -1,0 +1,133 @@
+﻿
+@{
+    Layout = null;
+}
+@{
+    var mahang = "";
+    var tenhang = "";
+    var loaihang = "";
+    var dongia = 0.0;
+    var soluong = 0;
+    var thanhtien = 0.0;
+
+    if (IsPost)
+    {
+        mahang = Request["mahang"];
+        tenhang = Request["tenhang"];
+        dongia = float.Parse(Request["dongia"]);
+        soluong = int.Parse(Request["soluong"]);
+        loaihang = Request["loaihang"];
+        if (soluong >= 100)
+        {
+            thanhtien = soluong * dongia * 0.9;
+        }
+        else
+        {
+            thanhtien = soluong * dongia;
+        }
+    }
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Cau1</title>
+</head>
+<style>
+    body {
+        width: 100vw;
+        height: 100vh;
+        background-color: aquamarine;
+    }
+
+    form {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    table {
+        width: 50%;
+        height: 50%;
+        font-size: 20px;
+        border: 3px solid black;
+        border-collapse: collapse;
+        color: deeppink;
+        background-color: lightgoldenrodyellow;
+    }
+
+    td, tr {
+        border: 1px solid black;
+        padding: 5px;
+    }
+
+    td {
+        width: 50%;
+    }
+
+    input[type="text"], select {
+        width: 90%;
+        height: 90%;
+        font-size: 20px;
+    }
+
+    input[type="submit"] {
+        padding: 8px 20px;
+        font-size: 20px;
+        background-color: gray;
+    }
+</style>
+<body>
+    <form action="" method="post">
+        <table>
+            <tr>
+                <td>Mã hàng: </td>
+                <td>
+                    <input type="text" name="mahang" />
+                </td>
+            </tr>
+            <tr>
+                <td>Tên hàng: </td>
+                <td>
+                    <input type="text" name="tenhang" />
+                </td>
+            </tr>
+            <tr>
+                <td>Loại hàng: </td>
+                <td>
+                    <select name="loaihang">
+                        <option>Quần áo</option>
+                        <option>Điện tử</option>
+                        <option>Gia dụng</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Đơn giá: </td>
+                <td>
+                    <input type="text" name="dongia" value="@dongia" />
+                </td>
+            </tr>
+            <tr>
+                <td>Số lượng: </td>
+                <td>
+                    <input type="text" name="soluong" value="@soluong" />
+                </td>
+            </tr>
+            <tr>
+                <td>Thành tiền: </td>
+                <td>
+                    <input type="text" name="thanhtien" value="@thanhtien" />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <input type="submit" value="Tính" />
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

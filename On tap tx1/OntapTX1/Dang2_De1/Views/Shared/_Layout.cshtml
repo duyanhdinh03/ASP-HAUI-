@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/Styles/Layout.css" />
+</head>
+<body>
+    <div id="section">
+        <div id="header">
+            <div class="title">
+                <h1>Kiểm tra 1</h1>
+            </div>
+            <div class="menu">
+                <ul>
+                    <li>@Html.ActionLink("Hiển thị danh sách", "DSNhanVien", "QuanLyNhanVien")</li>
+                    <li>@Html.ActionLink("Nhập dữ liệu", "NhapNV", "QuanLyNhanVien")</li>
+                </ul>
+            </div>
+        </div>
+        <div id="content">
+            <div align="center">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+</body>
+</html>

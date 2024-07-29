@@ -1,0 +1,470 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F1A1F5-4CEB-409B-9E32-5884A0E5C8A9}|Test101\\Test101.csproj|k:\\uni\\asp\\on tap tx1\\ontaptx1\\test101\\views\\quanlynhanvien\\nhapnv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9F1A1F5-4CEB-409B-9E32-5884A0E5C8A9}|Test101\\Test101.csproj|solutionrelative:test101\\views\\quanlynhanvien\\nhapnv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F1A1F5-4CEB-409B-9E32-5884A0E5C8A9}|Test101\\Test101.csproj|k:\\uni\\asp\\on tap tx1\\ontaptx1\\test101\\views\\quanlynhanvien\\hienthithongtin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9F1A1F5-4CEB-409B-9E32-5884A0E5C8A9}|Test101\\Test101.csproj|solutionrelative:test101\\views\\quanlynhanvien\\hienthithongtin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F1A1F5-4CEB-409B-9E32-5884A0E5C8A9}|Test101\\Test101.csproj|k:\\uni\\asp\\on tap tx1\\ontaptx1\\test101\\views\\quanlynhanvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9F1A1F5-4CEB-409B-9E32-5884A0E5C8A9}|Test101\\Test101.csproj|solutionrelative:test101\\views\\quanlynhanvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F1A1F5-4CEB-409B-9E32-5884A0E5C8A9}|Test101\\Test101.csproj|k:\\uni\\asp\\on tap tx1\\ontaptx1\\test101\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9F1A1F5-4CEB-409B-9E32-5884A0E5C8A9}|Test101\\Test101.csproj|solutionrelative:test101\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F1A1F5-4CEB-409B-9E32-5884A0E5C8A9}|Test101\\Test101.csproj|k:\\uni\\asp\\on tap tx1\\ontaptx1\\test101\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9F1A1F5-4CEB-409B-9E32-5884A0E5C8A9}|Test101\\Test101.csproj|solutionrelative:test101\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F1A1F5-4CEB-409B-9E32-5884A0E5C8A9}|Test101\\Test101.csproj|k:\\uni\\asp\\on tap tx1\\ontaptx1\\test101\\views\\quanlynhanvien\\dsnv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9F1A1F5-4CEB-409B-9E32-5884A0E5C8A9}|Test101\\Test101.csproj|solutionrelative:test101\\views\\quanlynhanvien\\dsnv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F1A1F5-4CEB-409B-9E32-5884A0E5C8A9}|Test101\\Test101.csproj|k:\\uni\\asp\\on tap tx1\\ontaptx1\\test101\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F1A1F5-4CEB-409B-9E32-5884A0E5C8A9}|Test101\\Test101.csproj|solutionrelative:test101\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F1A1F5-4CEB-409B-9E32-5884A0E5C8A9}|Test101\\Test101.csproj|k:\\uni\\asp\\on tap tx1\\ontaptx1\\test101\\controllers\\quanlynhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F1A1F5-4CEB-409B-9E32-5884A0E5C8A9}|Test101\\Test101.csproj|solutionrelative:test101\\controllers\\quanlynhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F1A1F5-4CEB-409B-9E32-5884A0E5C8A9}|Test101\\Test101.csproj|k:\\uni\\asp\\on tap tx1\\ontaptx1\\test101\\styles\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A9F1A1F5-4CEB-409B-9E32-5884A0E5C8A9}|Test101\\Test101.csproj|solutionrelative:test101\\styles\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDB6C30-45C7-4740-959F-AC6D598C003D}|Dang2_de2\\Dang2_de2.csproj|K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\dang2_de2\\styles\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0BDB6C30-45C7-4740-959F-AC6D598C003D}|Dang2_de2\\Dang2_de2.csproj|solutionrelative:dang2_de2\\styles\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDB6C30-45C7-4740-959F-AC6D598C003D}|Dang2_de2\\Dang2_de2.csproj|K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\dang2_de2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BDB6C30-45C7-4740-959F-AC6D598C003D}|Dang2_de2\\Dang2_de2.csproj|solutionrelative:dang2_de2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDB6C30-45C7-4740-959F-AC6D598C003D}|Dang2_de2\\Dang2_de2.csproj|K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\dang2_de2\\views\\quanlysanpham\\nhapsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BDB6C30-45C7-4740-959F-AC6D598C003D}|Dang2_de2\\Dang2_de2.csproj|solutionrelative:dang2_de2\\views\\quanlysanpham\\nhapsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDB6C30-45C7-4740-959F-AC6D598C003D}|Dang2_de2\\Dang2_de2.csproj|k:\\uni\\asp\\on tap tx1\\ontaptx1\\dang2_de2\\controllers\\quanlysanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDB6C30-45C7-4740-959F-AC6D598C003D}|Dang2_de2\\Dang2_de2.csproj|solutionrelative:dang2_de2\\controllers\\quanlysanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDB6C30-45C7-4740-959F-AC6D598C003D}|Dang2_de2\\Dang2_de2.csproj|K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\dang2_de2\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDB6C30-45C7-4740-959F-AC6D598C003D}|Dang2_de2\\Dang2_de2.csproj|solutionrelative:dang2_de2\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDB6C30-45C7-4740-959F-AC6D598C003D}|Dang2_de2\\Dang2_de2.csproj|K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\dang2_de2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDB6C30-45C7-4740-959F-AC6D598C003D}|Dang2_de2\\Dang2_de2.csproj|solutionrelative:dang2_de2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDB6C30-45C7-4740-959F-AC6D598C003D}|Dang2_de2\\Dang2_de2.csproj|k:\\uni\\asp\\on tap tx1\\ontaptx1\\dang2_de2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BDB6C30-45C7-4740-959F-AC6D598C003D}|Dang2_de2\\Dang2_de2.csproj|solutionrelative:dang2_de2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FEDEF1-8391-4AB9-8D45-6677315A0912}|Dang1\\Dang1.csproj|K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\dang1\\views\\home\\cau2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8FEDEF1-8391-4AB9-8D45-6677315A0912}|Dang1\\Dang1.csproj|solutionrelative:dang1\\views\\home\\cau2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDB6C30-45C7-4740-959F-AC6D598C003D}|Dang2_de2\\Dang2_de2.csproj|K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\dang2_de2\\styles\\layout.css||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0BDB6C30-45C7-4740-959F-AC6D598C003D}|Dang2_de2\\Dang2_de2.csproj|solutionrelative:dang2_de2\\styles\\layout.css||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDB6C30-45C7-4740-959F-AC6D598C003D}|Dang2_de2\\Dang2_de2.csproj|K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\dang2_de2\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDB6C30-45C7-4740-959F-AC6D598C003D}|Dang2_de2\\Dang2_de2.csproj|solutionrelative:dang2_de2\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDB6C30-45C7-4740-959F-AC6D598C003D}|Dang2_de2\\Dang2_de2.csproj|K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\dang2_de2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0BDB6C30-45C7-4740-959F-AC6D598C003D}|Dang2_de2\\Dang2_de2.csproj|solutionrelative:dang2_de2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDB6C30-45C7-4740-959F-AC6D598C003D}|Dang2_de2\\Dang2_de2.csproj|K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\dang2_de2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0BDB6C30-45C7-4740-959F-AC6D598C003D}|Dang2_de2\\Dang2_de2.csproj|solutionrelative:dang2_de2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6ABD5F-4E27-4912-BF6C-64384FDDF68B}|Dang2_De1\\Dang2_De1.csproj|K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\dang2_de1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6ABD5F-4E27-4912-BF6C-64384FDDF68B}|Dang2_De1\\Dang2_De1.csproj|solutionrelative:dang2_de1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FEDEF1-8391-4AB9-8D45-6677315A0912}|Dang1\\Dang1.csproj|K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\dang1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8FEDEF1-8391-4AB9-8D45-6677315A0912}|Dang1\\Dang1.csproj|solutionrelative:dang1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FEDEF1-8391-4AB9-8D45-6677315A0912}|Dang1\\Dang1.csproj|K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\dang1\\views\\home\\ketqua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8FEDEF1-8391-4AB9-8D45-6677315A0912}|Dang1\\Dang1.csproj|solutionrelative:dang1\\views\\home\\ketqua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FEDEF1-8391-4AB9-8D45-6677315A0912}|Dang1\\Dang1.csproj|K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\dang1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8FEDEF1-8391-4AB9-8D45-6677315A0912}|Dang1\\Dang1.csproj|solutionrelative:dang1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FEDEF1-8391-4AB9-8D45-6677315A0912}|Dang1\\Dang1.csproj|K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\dang1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FEDEF1-8391-4AB9-8D45-6677315A0912}|Dang1\\Dang1.csproj|solutionrelative:dang1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FEDEF1-8391-4AB9-8D45-6677315A0912}|Dang1\\Dang1.csproj|K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\dang1\\models\\hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FEDEF1-8391-4AB9-8D45-6677315A0912}|Dang1\\Dang1.csproj|solutionrelative:dang1\\models\\hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Test101\\Views\\QuanlyNhanvien\\Index.cshtml",
+              "RelativeDocumentMoniker": "Test101\\Views\\QuanlyNhanvien\\Index.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Test101\\Views\\QuanlyNhanvien\\Index.cshtml",
+              "RelativeToolTip": "Test101\\Views\\QuanlyNhanvien\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T18:48:46.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhapNV.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Test101\\Views\\QuanlyNhanvien\\NhapNV.cshtml",
+              "RelativeDocumentMoniker": "Test101\\Views\\QuanlyNhanvien\\NhapNV.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Test101\\Views\\QuanlyNhanvien\\NhapNV.cshtml",
+              "RelativeToolTip": "Test101\\Views\\QuanlyNhanvien\\NhapNV.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T18:30:44.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Test101\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Test101\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Test101\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Test101\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T18:48:37.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HienthiThongtin.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Test101\\Views\\QuanlyNhanvien\\HienthiThongtin.cshtml",
+              "RelativeDocumentMoniker": "Test101\\Views\\QuanlyNhanvien\\HienthiThongtin.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Test101\\Views\\QuanlyNhanvien\\HienthiThongtin.cshtml",
+              "RelativeToolTip": "Test101\\Views\\QuanlyNhanvien\\HienthiThongtin.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T18:47:43.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nhanvien.cs",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Test101\\Models\\Nhanvien.cs",
+              "RelativeDocumentMoniker": "Test101\\Models\\Nhanvien.cs",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Test101\\Models\\Nhanvien.cs",
+              "RelativeToolTip": "Test101\\Models\\Nhanvien.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T18:47:25.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuanlyNhanvienController.cs",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Test101\\Controllers\\QuanlyNhanvienController.cs",
+              "RelativeDocumentMoniker": "Test101\\Controllers\\QuanlyNhanvienController.cs",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Test101\\Controllers\\QuanlyNhanvienController.cs",
+              "RelativeToolTip": "Test101\\Controllers\\QuanlyNhanvienController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwFEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T18:47:05.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DSNV.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Test101\\Views\\QuanlyNhanvien\\DSNV.cshtml",
+              "RelativeDocumentMoniker": "Test101\\Views\\QuanlyNhanvien\\DSNV.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Test101\\Views\\QuanlyNhanvien\\DSNV.cshtml",
+              "RelativeToolTip": "Test101\\Views\\QuanlyNhanvien\\DSNV.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T18:46:56.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Layout.css",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Test101\\Styles\\Layout.css",
+              "RelativeDocumentMoniker": "Test101\\Styles\\Layout.css",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Test101\\Styles\\Layout.css",
+              "RelativeToolTip": "Test101\\Styles\\Layout.css",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-28T18:41:55.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_de2\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "Dang2_de2\\Models\\SanPham.cs",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_de2\\Models\\SanPham.cs",
+              "RelativeToolTip": "Dang2_de2\\Models\\SanPham.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T14:24:54.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NhapSP.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_de2\\Views\\QuanLySanPham\\NhapSP.cshtml",
+              "RelativeDocumentMoniker": "Dang2_de2\\Views\\QuanLySanPham\\NhapSP.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_de2\\Views\\QuanLySanPham\\NhapSP.cshtml",
+              "RelativeToolTip": "Dang2_de2\\Views\\QuanLySanPham\\NhapSP.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T14:39:52.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Test101\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Test101\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Test101\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Test101\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T18:43:53.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_de2\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Dang2_de2\\App_Start\\RouteConfig.cs",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_de2\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Dang2_de2\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T14:23:24.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QuanLySanPhamController.cs",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_de2\\Controllers\\QuanLySanPhamController.cs",
+              "RelativeDocumentMoniker": "Dang2_de2\\Controllers\\QuanLySanPhamController.cs",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_de2\\Controllers\\QuanLySanPhamController.cs",
+              "RelativeToolTip": "Dang2_de2\\Controllers\\QuanLySanPhamController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T14:22:22.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_de2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Dang2_de2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_de2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Dang2_de2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T16:59:01.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cau2.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang1\\Views\\Home\\Cau2.cshtml",
+              "RelativeDocumentMoniker": "Dang1\\Views\\Home\\Cau2.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang1\\Views\\Home\\Cau2.cshtml",
+              "RelativeToolTip": "Dang1\\Views\\Home\\Cau2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T12:00:14.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Layout.css",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_de2\\Styles\\Layout.css",
+              "RelativeDocumentMoniker": "Dang2_de2\\Styles\\Layout.css",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_de2\\Styles\\Layout.css",
+              "RelativeToolTip": "Dang2_de2\\Styles\\Layout.css",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-28T15:04:45.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_de2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Dang2_de2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_de2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Dang2_de2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T14:29:20.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_de2\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Dang2_de2\\Global.asax.cs",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_de2\\Global.asax.cs",
+              "RelativeToolTip": "Dang2_de2\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T14:24:05.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "packages.config",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_de2\\packages.config",
+              "RelativeDocumentMoniker": "Dang2_de2\\packages.config",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_de2\\packages.config",
+              "RelativeToolTip": "Dang2_de2\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-28T14:24:05.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Web.config",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_de2\\Web.config",
+              "RelativeDocumentMoniker": "Dang2_de2\\Web.config",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_de2\\Web.config",
+              "RelativeToolTip": "Dang2_de2\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-28T14:24:02.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Layout.css",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_de2\\Styles\\Layout.css",
+              "RelativeDocumentMoniker": "Dang2_de2\\Styles\\Layout.css",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_de2\\Styles\\Layout.css",
+              "RelativeToolTip": "Dang2_de2\\Styles\\Layout.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-28T14:23:15.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_De1\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Dang2_De1\\Global.asax.cs",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang2_De1\\Global.asax.cs",
+              "RelativeToolTip": "Dang2_De1\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T12:24:44.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Dang1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Dang1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T12:01:34.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "KetQua.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang1\\Views\\Home\\KetQua.cshtml",
+              "RelativeDocumentMoniker": "Dang1\\Views\\Home\\KetQua.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang1\\Views\\Home\\KetQua.cshtml",
+              "RelativeToolTip": "Dang1\\Views\\Home\\KetQua.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T12:00:22.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Dang1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Dang1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T11:59:44.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Dang1\\Controllers\\HomeController.cs",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Dang1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:58:18.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Hang.cs",
+              "DocumentMoniker": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang1\\Models\\Hang.cs",
+              "RelativeDocumentMoniker": "Dang1\\Models\\Hang.cs",
+              "ToolTip": "K:\\Uni\\ASP\\On tap tx1\\OntapTX1\\Dang1\\Models\\Hang.cs",
+              "RelativeToolTip": "Dang1\\Models\\Hang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:58:00.972Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

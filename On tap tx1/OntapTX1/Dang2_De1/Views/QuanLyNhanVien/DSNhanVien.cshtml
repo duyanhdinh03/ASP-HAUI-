@@ -1,0 +1,94 @@
+﻿
+@{
+    ViewBag.Title = "DSNhanVien";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>Danh sách nhân viên số ngày làm &gt; 20</h3>
+<table border="1" style="border-collapse:collapse" cellpadding="5">
+    <tr>
+        <th>Mã nhân viên</th>
+        <th>Họ tên</th>
+        <th>
+            Địa chỉ
+        </th>
+        <th>
+            Số ngày làm
+        </th>
+        <th>
+            Lương ngày
+        </th>
+        <th>
+            Tiền lương
+        </th>
+    </tr>
+
+    @foreach (var item in ViewBag.listnvNgay)
+    {
+        <tr>
+            <td>
+                @item.manv
+            </td>
+            <td>
+                @item.hoten
+            </td>
+            <td>
+                @item.diachi
+            </td>
+            <td>
+                @item.songaylam
+            </td>
+            <td>
+                @item.luongngay
+            </td>
+            <td>
+                @item.tienluong
+            </td>
+        </tr>
+    }
+
+</table>
+<h3>Danh sách nhân viên lương ngày &gt; 190000</h3>
+<table border="1" style="border-collapse:collapse" cellpadding="5">
+    <tr>
+        <th>Mã nhân viên</th>
+        <th>Họ tên</th>
+        <th>
+            Địa chỉ
+        </th>
+        <th>
+            Số ngày làm
+        </th>
+        <th>
+            Lương ngày
+        </th>
+        <th>
+            Tiền lương
+        </th>
+    </tr>
+
+    @foreach (var item in ViewBag.listnvLuong)
+    {
+        <tr>
+            <td>
+                @item.manv
+            </td>
+            <td>
+                @item.hoten
+            </td>
+            <td>
+                @item.diachi
+            </td>
+            <td>
+                @item.songaylam
+            </td>
+            <td>
+                @item.luongngay
+            </td>
+            <td>
+                @item.tienluong
+            </td>
+        </tr>
+    }
+
+</table>

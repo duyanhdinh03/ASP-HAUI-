@@ -1,0 +1,60 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Cau2</title>
+</head>
+<body>
+    @using (Html.BeginForm("KetQua", "Home"))
+    {
+        <table border="3" style="border-collapse: collapse" cellpadding="5">
+            <tr>
+                <td>@Html.Label("Mã hàng: ")</td>
+                <td>@Html.TextBox("mahang")</td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.Label("Tên hàng: ")
+                </td>
+                <td>
+                    @Html.TextBox("tenhang");
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.Label("Loại hàng: ")
+                </td>
+                <td>
+                    @{
+                        IEnumerable<string> strList = new List<string> { "Quần áo", "Điện tử", "Gia dụng" };
+                    }
+                    @Html.DropDownList("loaihang", new SelectList(strList, strList.FirstOrDefault()), "--Select--")
+                </td>
+            </tr>
+            <tr>
+                <td>@Html.Label("Đơn giá: ")</td>
+                <td>@Html.TextBox("dongia")</td>
+            </tr>
+            <tr>
+                <td>@Html.Label("Số lượng: ")</td>
+                <td>@Html.TextBox("soluong")</td>
+            </tr>
+            <tr>
+                <td>@Html.Label("Thành tiền: ")</td>
+                <td>@Html.TextBox("thanhtien")</td>
+            </tr>
+            <tr align="center">
+                <td colspan="2">
+                    <input type="submit" value="Tính" />
+                </td>
+            </tr>
+        </table>
+    }
+</body>
+</html>

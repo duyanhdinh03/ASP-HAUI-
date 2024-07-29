@@ -1,0 +1,75 @@
+﻿@model.Dang2_De1.NhanVien
+@{
+    ViewBag.Title = "HienthiNV";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Thông tin nhân viên</h2>
+
+<div>
+    <table class="tbl">
+        <tr>
+            <th>
+                Mã nhân viên
+            </th>
+
+            <td>
+                @Html.DisplayFor(model => model.manv)
+            </td>
+        </tr>
+
+        <tr>
+            <th>
+                Họ tên
+            </th>
+
+            <td>
+                @Html.DisplayFor(model => model.hoten)
+            </td>
+        </tr>
+
+        <tr>
+            <th>
+                Dịa chỉ
+            </th>
+
+            <td>
+                @Html.DisplayFor(model => model.diachi)
+            </td>
+        </tr>
+
+        <tr>
+            <th>
+                Số ngày làm
+            </th>
+
+            <td>
+                @Html.DisplayFor(model => model.songaylam)
+            </td>
+        </tr>
+
+        <tr>
+            <th>
+                Lương ngày
+            </th>
+
+            <td>
+                @Html.DisplayFor(model => model.luongngay)
+            </td>
+        </tr>
+
+        <tr>
+            <th>
+                Tiền lương
+            </th>
+
+            <td>
+                @Html.DisplayFor(model => model.tienluong)
+            </td>
+        </tr>
+
+    </table>
+</div>
+<p>
+    @Html.ActionLink("Back to List", "NhapNV")
+</p>

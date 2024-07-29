@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewBag.Title = "NhapNV";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Nhập thông tin nhân viên</h2>
+@using (Html.BeginForm("HienThiNV", "QuanLyNhanVien"))
+{
+    <table class="tbl" cellpadding="5">
+        <tr>
+            <td>@Html.Label("Mã NV")</td>
+            <td>@Html.TextBox("manv")</td>
+        </tr>
+        <tr>
+            <td>@Html.Label("Họ tên")</td>
+            <td>@Html.TextBox("hoten")</td>
+        </tr>
+        <tr>
+            @{
+                IEnumerable<string> listcity = new List<string>
+                {
+                    "Hà Nội", "Hải Phòng", "Quản Ninh"
+                };
+            }
+            <td>@Html.Label("Địa chi")</td>
+            <td>@Html.DropDownList("diachi", new SelectList(listcity, listcity.FirstOrDefault()), "--Chọn thành phố---")</td>
+        </tr>
+        <tr>
+            <td>@Html.Label("Số ngày làm")</td>
+            <td>@Html.TextBox("songaylam")</td>
+        </tr>
+        <tr>
+            <td>@Html.Label("Lương ngày")</td>
+            <td>@Html.TextBox("luongngay")</td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center"><input type="submit" value="Nhập" /></td>
+        </tr>
+    </table>
+}

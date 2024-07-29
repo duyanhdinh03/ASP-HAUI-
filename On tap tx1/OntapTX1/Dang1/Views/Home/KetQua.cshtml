@@ -1,0 +1,42 @@
+﻿@model Dang1.Models.Hang
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>KetQua</title>
+</head>
+<body>
+    <div>
+        <h4>Hang</h4>
+        <hr />
+        <table>
+            <tr>
+                <th>Mã hàng</th>
+                <th>Tên hàng</th>
+                <th>Thành tiền</th>
+            </tr>
+            <tr>
+                <td>
+                    @Html.DisplayFor(model => model.mahang)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.tenhang)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.thanhtien)
+                </td>
+            </tr>
+        </table>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "Hienthi";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Hiển thị danh sách sản phẩm theo giá tiền &gt; 100</h2>
+
+<table class="tbl" border="1">
+    <tr>
+        <th>Mã sản phẩm </th>
+        <th>Tên sản phẩm</th>
+        <th>Số Lượng </th>
+        <th>Giá tiền</th>
+        <th>Giảm Giá</th>
+    </tr>
+
+    @foreach (var item in ViewBag.ds1)
+    {
+        <tr>
+            <th>@item.masp</th>
+            <th>@item.tensanpham</th>
+            <th>@item.soluong</th>
+            <th>@item.giatien</th>
+            <th>@item.giamgia</th>
+        </tr>
+    }
+
+</table>
+
+<br />
+<br />
+<h2>Hiển thị danh sách sản phẩm giảm giá</h2>
+
+<table class="tbl" border="1">
+    <tr>
+        <th>Mã sản phẩm </th>
+        <th>Tên sản phẩm</th>
+        <th>Số Lượng </th>
+        <th>Giá tiền</th>
+        <th>Giảm Giá</th>
+    </tr>
+
+    @foreach (var item in ViewBag.ds2)
+    {
+        <tr>
+            <th>@item.masp</th>
+            <th>@item.tensanpham</th>
+            <th>@item.soluong</th>
+            <th>@item.giatien</th>
+            <th>@item.giamgia</th>
+        </tr>
+    }
+
+</table>

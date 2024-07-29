@@ -1,0 +1,62 @@
+﻿
+@{
+    ViewBag.Title = "DSNV";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<h2>Danh sách nhân viên có số ngày làm < 20</h2>
+
+<table class="tbl" border="1">
+    <tr>
+        <th>Mã nhân viên</th>
+        <th>Họ tên</th>
+        <th>Địa chỉ</th>
+        <th>Số ngày làm</th>
+        <th>Lương ngày</th>
+        <th>Tiền lương</th>
+
+    </tr>
+    @foreach (var item in ViewBag.listnv1)
+    {
+        <tr>
+            <th>@item.manv</th>
+            <th>@item.hoten</th>
+            <th>@item.diachi</th>
+            <th>@item.songaylam</th>
+            <th>@item.luongngay</th>
+            <th>@item.tienluong</th>
+        </tr>
+    }
+
+
+</table>
+<br />
+<br />
+<h2>Danh sách nhân viên có lương ngày > 190000</h2>
+
+<table class="tbl" border="1">
+    <tr>
+        <th>Mã nhân viên</th>
+        <th>Họ tên</th>
+        <th>Địa chỉ</th>
+        <th>Số ngày làm</th>
+        <th>Lương ngày</th>
+        <th>Tiền lương</th>
+
+    </tr>
+    @foreach (var item in ViewBag.listnv2)
+    {
+        <tr>
+            <th>@item.manv</th>
+            <th>@item.hoten</th>
+            <th>@item.diachi</th>
+            <th>@item.songaylam</th>
+            <th>@item.luongngay</th>
+            <th>@item.tienluong</th>
+        </tr>
+    }
+
+
+</table>
+
